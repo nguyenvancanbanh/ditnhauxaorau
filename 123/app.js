@@ -1,1 +1,2 @@
-import('./meojs/app.js');
+import('.meojs/app.js').then(module => {
+});
